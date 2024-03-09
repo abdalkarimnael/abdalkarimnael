@@ -28,11 +28,11 @@ I'm currently focused on improving my skills in:
 
 ## ⭐️ GitHub Stats
 
-![Musab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalkarimnael&show_icons=true&theme=radical)
+![Abdalkarim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalkarimnael&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
-![Musab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalkarimnael&layout=compact&theme=radical)
+![Abdalkarim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalkarimnael&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
