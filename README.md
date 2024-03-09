@@ -1,6 +1,6 @@
 # Hello, I'm Abdalkarim Barghouthi! 👋
 
-![Abdalkarim Barghouthi](https://avatars.githubusercontent.com/u/129512609?s=400&u=edee084db91932140a47bbed632139ad8a89aaab&v=4)
+![Abdalkarim Barghouthi](https://avatars.githubusercontent.com/u/162728446?s=400&u=1b8258ecbda8a2a0ad22149ab97451895551443b&v=4)
 
 ## 🔧 Technologies & Tools
 
@@ -36,8 +36,8 @@ I'm currently focused on improving my skills in:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Abdalkarim Barghouthi]((https://www.linkedin.com/in/anaelbarghouthi/))
-- Facebook: [Abdalkarim Barghouthi] [](https://www.facebook.com/anael.barghouthi/))
-- Gmail: [Abdalkarim Barghouthi](abdulkareemnael@gmail.com)
+- LinkedIn: [Abdalkarim Barghouthi][https://www.linkedin.com/in/anaelbarghouthi/]
+- Facebook: [Abdalkarim Barghouthi] [https://www.facebook.com/anael.barghouthi]
+- Gmail: [Abdalkarim Barghouthi][abdulkareemnael@gmail.com]
 
 Feel free to reach out, and let's collaborate on something exciting! 😊
