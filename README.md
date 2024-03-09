@@ -36,8 +36,8 @@ I'm currently focused on improving my skills in:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Abdalkarim Barghouthi][https://www.linkedin.com/in/anaelbarghouthi/]
+- LinkedIn: [Abdalkarim Barghouthi] [https://www.linkedin.com/in/anaelbarghouthi/]
 - Facebook: [Abdalkarim Barghouthi] [https://www.facebook.com/anael.barghouthi]
-- Gmail: [Abdalkarim Barghouthi][abdulkareemnael@gmail.com]
+- Gmail: [Abdalkarim Barghouthi] [abdulkareemnael@gmail.com]
 
 Feel free to reach out, and let's collaborate on something exciting! 😊
