@@ -6,16 +6,16 @@
 
 Here are some of the technologies and tools I'm familiar with:
 
-- Programming Languages: 
+- **Programming Languages:** 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![XML](https://img.shields.io/badge/XML-555555?style=for-the-badge&logo=xml&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell_Script-121D33?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- Hardware: 
+- **Hardware:** 
   ![Verilog](https://img.shields.io/badge/Verilog-4285F4?style=for-the-badge&logoColor=white)
-- Databases: 
+- **Databases:** 
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌱 I'm Currently Learning
@@ -36,8 +36,8 @@ I'm currently focused on improving my skills in:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Abdalkarim Barghouthi] [https://www.linkedin.com/in/anaelbarghouthi/]
-- Facebook: [Abdalkarim Barghouthi] [https://www.facebook.com/anael.barghouthi]
-- Gmail: [Abdalkarim Barghouthi] [abdulkareemnael@gmail.com]
+- LinkedIn: [Abdalkarim Barghouthi](https://www.linkedin.com/in/anaelbarghouthi/)
+- Facebook: [Abdalkarim Barghouthi](https://www.facebook.com/anael.barghouthi)
+- Gmail: [Abdalkarim Barghouthi](mailto:abdulkareemnael@gmail.com)
 
 Feel free to reach out, and let's collaborate on something exciting! 😊
