@@ -26,6 +26,18 @@ I'm currently focused on improving my skills in:
 - ![Web Development](https://img.shields.io/badge/Web_Development-0078D4?style=for-the-badge&logo=html5&logoColor=white)
 - ![Mobile Apps Development](https://img.shields.io/badge/Mobile_Apps_Development-3DDC84?style=for-the-badge&logo=react&logoColor=white)
 
+## 🚀 Personal Skills
+
+- ![Stress Management](https://img.shields.io/badge/Stress_Management-00599C?style=for-the-badge&logo=adobe&logoColor=white) Ability to tolerate stress
+- ![Teamwork](https://img.shields.io/badge/Teamwork-ED8B00?style=for-the-badge&logo=figma&logoColor=white) Strong team player
+- ![Communication](https://img.shields.io/badge/Communication-3776AB?style=for-the-badge&logo=slack&logoColor=white) Effective communicator
+- ![Time Management](https://img.shields.io/badge/Time_Management-555555?style=for-the-badge&logo=trello&logoColor=white) Proficient in time management
+- ![Presentation](https://img.shields.io/badge/Presentation-007396?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) Proficient in presentations
+- ![Project Management](https://img.shields.io/badge/Project_Management-121D33?style=for-the-badge&logo=asana&logoColor=white) Skilled in project management (MS Project Tool)
+- ![Report Writing](https://img.shields.io/badge/Report_Writing-121D33?style=for-the-badge&logo=google-docs&logoColor=white) Proficient in report writing and research
+- ![Problem Solving](https://img.shields.io/badge/Problem_Solving-121D33?style=for-the-badge&logo=google&logoColor=white) Strong problem-solving abilities
+  
+
 ## ⭐️ GitHub Stats
 
 ![Abdalkarim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalkarimnael&show_icons=true&theme=radical)
