@@ -1,4 +1,5 @@
 # Hello, I'm Abdalkarim Barghouthi! 👋
+A highly motivated 4th year computer engineering student at Birzeit University, I am endeavoring to enhance my skills in web development, particularly in full-stack development, as it marks the starting point of my journey towards success. Additionally, I am deeply interested in the Blockchain field. Continuously seeking to learn new technologies in computer engineering, I aim to make a positive impact in this world. Ultimately, I am currently seeking an opportunity to further my learning and showcase my creativity.
 
 ![Abdalkarim Barghouthi](https://avatars.githubusercontent.com/u/162728446?s=400&u=1b8258ecbda8a2a0ad22149ab97451895551443b&v=4)
 
@@ -37,7 +38,17 @@ I'm currently focused on improving my skills in:
 - ![Report Writing](https://img.shields.io/badge/Report_Writing-121D33?style=for-the-badge&logo=google-docs&logoColor=white) Proficient in report writing and research
 - ![Problem Solving](https://img.shields.io/badge/Problem_Solving-121D33?style=for-the-badge&logo=google&logoColor=white) Strong problem-solving abilities
   
+## 🚀 Interests
 
+- ![Technological Evolvement](https://img.shields.io/badge/Technological_Evolvement-ED8B00?style=for-the-badge&logo=technology&logoColor=white) Keeping up with technological advancements
+- ![Programming](https://img.shields.io/badge/Programming-555555?style=for-the-badge&logo=github&logoColor=white) Exploring new programming languages and concepts
+- ![Problem Solving](https://img.shields.io/badge/Problem_Solving-007396?style=for-the-badge&logo=hackerrank&logoColor=white) Enhancing problem-solving skills
+- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white) Learning about blockchain technology
+- ![Graphic Design](https://img.shields.io/badge/Graphic_Design-121D33?style=for-the-badge&logo=adobe&logoColor=white) Exploring graphic design principles
+- ![Project Management](https://img.shields.io/badge/Project_Management-121D33?style=for-the-badge&logo=asana&logoColor=white) Improving project management skills
+- ![Robotics](https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=robot&logoColor=white) Exploring Robotics and Automation
+    
+  
 ## ⭐️ GitHub Stats
 
 ![Abdalkarim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalkarimnael&show_icons=true&theme=radical)
