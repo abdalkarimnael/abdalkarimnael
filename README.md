@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdalkarim
 
-As a **junior full-stack developer**, I am focused on enhancing my skills in web development, with a strong interest in the blockchain field. Eager to learn new technologies in computer engineering, I aim to make a meaningful impact and am seeking opportunities to further my growth and showcase my creativity.
+As a **junior Computer Engineer**, I am passionate about advancing my skills in various computer engineering fields, with a particular interest in blockchain technology. I am eager to explore new technologies, contribute to innovative projects, and share my growth journey through meaningful collaborations and creative solutions.
 
 ---
 
