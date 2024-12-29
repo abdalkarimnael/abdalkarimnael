@@ -34,6 +34,7 @@ As a **junior Computer Engineer**, I am passionate about advancing my skills in 
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C8A?style=flat&logo=assembly&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-003399?style=flat&logo=esp32&logoColor=white)
+![Physical Design](https://img.shields.io/badge/Physical_Design-4E79A7?style=flat&logo=design&logoColor=white)
 
 ### Mobile App Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
