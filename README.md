@@ -29,9 +29,11 @@ As a **junior full-stack developer**, I am focused on enhancing my skills in web
 ![Git Workflows](https://img.shields.io/badge/Git_Workflows-4B9CD3?style=flat&logo=git&logoColor=white)
 
 #### For Hardware:
-![Verilog](https://img.shields.io/badge/Verilog-4285F4?style=flat&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/Verilog-4285F4?style=flat&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6E4C8A?style=flat&logo=systemverilog&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C8A?style=flat&logo=assembly&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-003399?style=flat&logo=esp32&logoColor=white)
 
 ### Mobile App Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -47,6 +49,10 @@ As a **junior full-stack developer**, I am focused on enhancing my skills in web
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Grails](https://img.shields.io/badge/Grails-6DB33F?style=flat&logo=grails&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-007ACC?style=flat&logo=api&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-007ACC?style=flat&logo=mvc&logoColor=white)
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -58,7 +64,9 @@ As a **junior full-stack developer**, I am focused on enhancing my skills in web
 
 ### Computer Networks
 ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0E1?style=flat&logo=cisco&logoColor=white)
-![Wireless](https://img.shields.io/badge/Wireless_Communication-007ACC?style=flat&logo=wireless&logoColor=white)
+![IP Subnetting](https://img.shields.io/badge/IP_Subnetting-007ACC?style=flat&logo=network&logoColor=white)
+![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-007ACC?style=flat&logo=network&logoColor=white)
+![Wireless Networking](https://img.shields.io/badge/Wireless_Networking-007ACC?style=flat&logo=wifi&logoColor=white)
 
 ---
 
