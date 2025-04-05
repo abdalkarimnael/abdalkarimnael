@@ -88,7 +88,14 @@ As a **junior Computer Engineer**, I am passionate about advancing my skills in 
 ---
 
 ## ⭐️📊 GitHub Stats && Most Used Languages
-![Abdalkarim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalkarimnael&show_icons=true&theme=radical) ![Abdalkarim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalkarimnael&layout=compact&theme=radical)
+![Abdalkarim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalkarimnael&show_icons=true&theme=radical) 
+
+![Abdalkarim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalkarimnael&layout=compact&theme=radical)
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdalkarimnael&&abbreviated=true&label=👁️Visitors%20Since%2004/05/2025:&color=0d47a1&style=flat-square" alt="abdalkarimnael visitor count" />
+</p>
 
 ---
 
