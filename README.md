@@ -94,7 +94,7 @@ As a **junior Computer Engineer**, I am passionate about advancing my skills in 
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdalkarimnael&&abbreviated=true&label=👁️Visitors%20Since%2004/05/2025:&color=0d47a1&style=flat-square" alt="abdalkarimnael visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=abdalkarimnael&&abbreviated=true&label=👁️Visitors%20Since%2005/04/2025:&color=0d47a1&style=flat-square" alt="abdalkarimnael visitor count" />
 </p>
 
 ---
