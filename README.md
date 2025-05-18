@@ -45,6 +45,7 @@ As a **junior Computer Engineer**, I am passionate about advancing my skills in 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-007ACC?style=flat&logo=ajax&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -59,6 +60,9 @@ As a **junior Computer Engineer**, I am passionate about advancing my skills in 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-6E4E8E?style=flat&logo=apachecouchdb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Computer Skills
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0078D4?style=flat&logo=microsoftoffice&logoColor=white)
